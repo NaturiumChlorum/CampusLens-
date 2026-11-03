@@ -1,0 +1,20 @@
+{
+  "float": [
+    { "name": "page_text_font_size", "value": "50fp" },
+    { "name": "title_lg", "value": "22fp" },
+    { "name": "title_md", "value": "18fp" },
+    { "name": "title_sm", "value": "16fp" },
+    { "name": "body_md", "value": "14fp" },
+    { "name": "body_sm", "value": "12fp" },
+    { "name": "caption", "value": "11fp" },
+    { "name": "radius_sm", "value": "8vp" },
+    { "name": "radius_md", "value": "12vp" },
+    { "name": "radius_lg", "value": "16vp" },
+    { "name": "space_xs", "value": "4vp" },
+    { "name": "space_sm", "value": "8vp" },
+    { "name": "space_md", "value": "12vp" },
+    { "name": "space_lg", "value": "16vp" },
+    { "name": "space_xl", "value": "20vp" },
+    { "name": "space_2xl", "value": "24vp" }
+  ]
+}

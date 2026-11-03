@@ -1,0 +1,656 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "拾讯 - AI校园信息中枢"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "拾讯主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "拾讯"
+    },
+    {
+      "name": "reason_calendar",
+      "value": "用于将校园任务的截止时间与活动时间同步到系统日历，方便提醒"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_ai",
+      "value": "AI识别"
+    },
+    {
+      "name": "tab_task",
+      "value": "任务"
+    },
+    {
+      "name": "tab_profile",
+      "value": "我的"
+    },
+    {
+      "name": "home_title",
+      "value": "拾讯"
+    },
+    {
+      "name": "home_subtitle",
+      "value": "校园通知，不再错过"
+    },
+    {
+      "name": "home_today_todo",
+      "value": "今日活动"
+    },
+    {
+      "name": "home_upcoming_deadline",
+      "value": "未来7天"
+    },
+    {
+      "name": "home_recent_activity",
+      "value": "稍后活动"
+    },
+    {
+      "name": "home_recognize_entry",
+      "value": "识别校园通知"
+    },
+    {
+      "name": "home_recognize_hint",
+      "value": "粘贴 / 输入 / 截图，AI 一键结构化"
+    },
+    {
+      "name": "ai_title",
+      "value": "AI识别"
+    },
+    {
+      "name": "ai_input_placeholder",
+      "value": "粘贴或输入校园通知文字…"
+    },
+    {
+      "name": "ai_pick_image",
+      "value": "从相册选择截图"
+    },
+    {
+      "name": "ai_start_ocr",
+      "value": "OCR提取图片文字"
+    },
+    {
+      "name": "ai_analyze",
+      "value": "AI结构化分析"
+    },
+    {
+      "name": "ai_status_idle",
+      "value": "等待输入"
+    },
+    {
+      "name": "ai_status_analyzing",
+      "value": "AI分析中…"
+    },
+    {
+      "name": "task_title",
+      "value": "任务"
+    },
+    {
+      "name": "task_tab_all",
+      "value": "全部"
+    },
+    {
+      "name": "task_tab_pending",
+      "value": "待完成"
+    },
+    {
+      "name": "task_tab_completed",
+      "value": "已完成"
+    },
+    {
+      "name": "task_tab_expired",
+      "value": "已过期"
+    },
+    {
+      "name": "profile_title",
+      "value": "我的"
+    },
+    {
+      "name": "profile_settings",
+      "value": "设置"
+    },
+    {
+      "name": "common_empty",
+      "value": "暂无内容"
+    },
+    {
+      "name": "common_loading",
+      "value": "加载中…"
+    },
+    {
+      "name": "common_confirm",
+      "value": "确定"
+    },
+    {
+      "name": "common_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "task_empty_hint",
+      "value": "通过 AI 识别生成的任务会显示在这里"
+    },
+    {
+      "name": "task_detail_title",
+      "value": "任务详情"
+    },
+    {
+      "name": "task_action_complete",
+      "value": "标记完成"
+    },
+    {
+      "name": "task_action_delete",
+      "value": "删除"
+    },
+    {
+      "name": "task_action_close",
+      "value": "关闭"
+    },
+    {
+      "name": "task_confirm_complete",
+      "value": "确认将此任务标记为已完成？"
+    },
+    {
+      "name": "task_confirm_delete",
+      "value": "确认删除此任务？删除后无法恢复。"
+    },
+    {
+      "name": "task_label_title",
+      "value": "标题"
+    },
+    {
+      "name": "task_label_category",
+      "value": "分类"
+    },
+    {
+      "name": "task_label_deadline",
+      "value": "截止"
+    },
+    {
+      "name": "task_label_event_time",
+      "value": "活动开始"
+    },
+    {
+      "name": "task_label_event_end_time",
+      "value": "活动结束"
+    },
+    {
+      "name": "task_label_location",
+      "value": "地点"
+    },
+    {
+      "name": "task_label_materials",
+      "value": "材料"
+    },
+    {
+      "name": "task_label_contact",
+      "value": "联系"
+    },
+    {
+      "name": "task_label_notes",
+      "value": "备注"
+    },
+    {
+      "name": "task_label_description",
+      "value": "描述"
+    },
+    {
+      "name": "task_label_original",
+      "value": "原文"
+    },
+    {
+      "name": "task_label_priority",
+      "value": "优先级"
+    },
+    {
+      "name": "task_no_deadline",
+      "value": "无截止"
+    },
+    {
+      "name": "task_no_event_time",
+      "value": "无活动时间"
+    },
+    {
+      "name": "ai_clear_input",
+      "value": "清空"
+    },
+    {
+      "name": "ai_error_empty",
+      "value": "通知内容不能为空"
+    },
+    {
+      "name": "ai_error_unknown",
+      "value": "AI 识别失败，请重试"
+    },
+    {
+      "name": "ai_result_title",
+      "value": "识别结果"
+    },
+    {
+      "name": "ai_result_hint",
+      "value": "请核对 AI 识别结果，可编辑后保存"
+    },
+    {
+      "name": "ai_save_task",
+      "value": "保存任务"
+    },
+    {
+      "name": "ai_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "ai_field_title",
+      "value": "标题"
+    },
+    {
+      "name": "ai_field_category",
+      "value": "分类"
+    },
+    {
+      "name": "ai_field_deadline",
+      "value": "截止时间"
+    },
+    {
+      "name": "ai_field_event_time",
+      "value": "活动开始时间"
+    },
+    {
+      "name": "ai_field_event_end_time",
+      "value": "活动结束时间"
+    },
+    {
+      "name": "ai_field_location",
+      "value": "地点"
+    },
+    {
+      "name": "ai_field_materials",
+      "value": "携带材料（用、分隔）"
+    },
+    {
+      "name": "ai_field_contact",
+      "value": "联系人"
+    },
+    {
+      "name": "ai_field_notes",
+      "value": "备注"
+    },
+    {
+      "name": "ai_field_description",
+      "value": "描述"
+    },
+    {
+      "name": "ai_field_priority",
+      "value": "优先级"
+    },
+    {
+      "name": "ai_priority_high",
+      "value": "高"
+    },
+    {
+      "name": "ai_priority_medium",
+      "value": "中"
+    },
+    {
+      "name": "ai_priority_low",
+      "value": "低"
+    },
+    {
+      "name": "ai_clear_input_confirm",
+      "value": "确认清空输入内容？"
+    },
+    {
+      "name": "ai_save_success",
+      "value": "任务已保存"
+    },
+    {
+      "name": "ai_ocr_status_picking",
+      "value": "正在选择图片…"
+    },
+    {
+      "name": "ai_ocr_status_recognizing",
+      "value": "正在识别图片文字…"
+    },
+    {
+      "name": "ai_ocr_status_analyzing",
+      "value": "正在分析通知内容…"
+    },
+    {
+      "name": "ai_ocr_status_done",
+      "value": "识别完成，前往确认"
+    },
+    {
+      "name": "ai_ocr_status_failed",
+      "value": "识别失败"
+    },
+    {
+      "name": "ai_ocr_status_cancelled",
+      "value": "已取消选择图片"
+    },
+    {
+      "name": "ai_ocr_err_read",
+      "value": "图片读取失败"
+    },
+    {
+      "name": "ai_ocr_err_empty",
+      "value": "未识别到文字，请换一张图片"
+    },
+    {
+      "name": "ai_ocr_section_image",
+      "value": "从图片识别"
+    },
+    {
+      "name": "save_and_calendar",
+      "value": "保存并加入日历"
+    },
+    {
+      "name": "calendar_section",
+      "value": "日历同步"
+    },
+    {
+      "name": "calendar_add_deadline",
+      "value": "添加报名截止"
+    },
+    {
+      "name": "calendar_add_activity",
+      "value": "添加活动时间"
+    },
+    {
+      "name": "calendar_select_both",
+      "value": "可同时勾选两项"
+    },
+    {
+      "name": "calendar_reminder_title",
+      "value": "提醒"
+    },
+    {
+      "name": "calendar_reminder_none",
+      "value": "不提醒"
+    },
+    {
+      "name": "calendar_reminder_10min",
+      "value": "提前10分钟"
+    },
+    {
+      "name": "calendar_reminder_30min",
+      "value": "提前30分钟"
+    },
+    {
+      "name": "calendar_reminder_1hour",
+      "value": "提前1小时"
+    },
+    {
+      "name": "calendar_reminder_1day",
+      "value": "提前1天"
+    },
+    {
+      "name": "calendar_adding",
+      "value": "正在同步到日历…"
+    },
+    {
+      "name": "calendar_add_success",
+      "value": "已添加到系统日历"
+    },
+    {
+      "name": "calendar_add_failed",
+      "value": "日历同步失败"
+    },
+    {
+      "name": "calendar_partial_failed",
+      "value": "任务已保存，但日历同步未完成"
+    },
+    {
+      "name": "calendar_task_saved",
+      "value": "任务已保存"
+    },
+    {
+      "name": "calendar_added",
+      "value": "已添加到系统日历"
+    },
+    {
+      "name": "calendar_add_to_calendar",
+      "value": "添加到日历"
+    },
+    {
+      "name": "calendar_update_event",
+      "value": "更新日历"
+    },
+    {
+      "name": "calendar_delete_event",
+      "value": "删除日历事件"
+    },
+    {
+      "name": "calendar_delete_confirm",
+      "value": "是否同时删除系统日历事件？"
+    },
+    {
+      "name": "calendar_delete_confirm_yes",
+      "value": "同时删除日历"
+    },
+    {
+      "name": "calendar_delete_confirm_no",
+      "value": "仅删除任务"
+    },
+    {
+      "name": "calendar_no_time",
+      "value": "任务无日历可同步的时间"
+    },
+    {
+      "name": "calendar_permission_denied",
+      "value": "用户未授权日历权限"
+    },
+    {
+      "name": "calendar_already_added",
+      "value": "该事件已添加，无需重复添加"
+    },
+    {
+      "name": "home_stat_today",
+      "value": "今日活动"
+    },
+    {
+      "name": "home_stat_pending",
+      "value": "待处理"
+    },
+    {
+      "name": "home_stat_upcoming",
+      "value": "未来7天"
+    },
+    {
+      "name": "home_view_all",
+      "value": "全部 ›"
+    },
+    {
+      "name": "home_empty_today",
+      "value": "今日无活动"
+    },
+    {
+      "name": "home_empty_today_hint",
+      "value": "今天可以喘口气啦"
+    },
+    {
+      "name": "home_empty_upcoming",
+      "value": "未来7天无活动"
+    },
+    {
+      "name": "home_empty_upcoming_hint",
+      "value": "识别新的通知后会出现在这里"
+    },
+    {
+      "name": "home_empty_activity",
+      "value": "暂无稍后活动"
+    },
+    {
+      "name": "home_empty_activity_hint",
+      "value": "识别新的通知后会出现在这里"
+    },
+    {
+      "name": "home_deadline_in_days",
+      "value": "距离截止还有%s天"
+    },
+    {
+      "name": "home_deadline_today",
+      "value": "今日截止"
+    },
+    {
+      "name": "home_deadline_tomorrow",
+      "value": "明日截止"
+    },
+    {
+      "name": "home_deadline_overdue",
+      "value": "已逾期"
+    },
+    {
+      "name": "task_action_edit",
+      "value": "编辑"
+    },
+    {
+      "name": "task_edit_title",
+      "value": "编辑任务"
+    },
+    {
+      "name": "task_edit_save",
+      "value": "保存"
+    },
+    {
+      "name": "task_edit_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "task_label_created_at",
+      "value": "创建时间"
+    },
+    {
+      "name": "task_label_calendar_status",
+      "value": "日历同步"
+    },
+    {
+      "name": "task_calendar_synced",
+      "value": "已同步系统日历"
+    },
+    {
+      "name": "task_calendar_not_synced",
+      "value": "未同步"
+    },
+    {
+      "name": "common_loading_default",
+      "value": "加载中…"
+    },
+    {
+      "name": "common_save_failed",
+      "value": "保存失败，请重试"
+    },
+    {
+      "name": "common_load_failed",
+      "value": "数据加载失败"
+    },
+    {
+      "name": "common_op_failed",
+      "value": "操作失败，请重试"
+    },
+    {
+      "name": "ai_empty_input_hint",
+      "value": "请先粘贴或输入校园通知文字"
+    },
+    {
+      "name": "ai_status_ready",
+      "value": "已输入，点击下方按钮开始识别"
+    },
+    {
+      "name": "ai_status_done",
+      "value": "识别完成，前往确认"
+    },
+    {
+      "name": "ai_status_failed",
+      "value": "识别失败"
+    },
+    {
+      "name": "ai_status_picking",
+      "value": "正在选择图片…"
+    },
+    {
+      "name": "ai_status_ocr",
+      "value": "正在识别图片文字…"
+    },
+    {
+      "name": "ai_status_analyzing_ocr",
+      "value": "正在分析通知内容…"
+    },
+    {
+      "name": "ai_status_cancelled",
+      "value": "已取消选择图片"
+    },
+    {
+      "name": "ai_status_empty_text",
+      "value": "未识别到文字"
+    },
+    {
+      "name": "ai_err_ai_failed",
+      "value": "AI 识别失败，请重试"
+    },
+    {
+      "name": "ai_err_ocr_failed",
+      "value": "OCR 识别失败，请重试"
+    },
+    {
+      "name": "ai_err_ocr_read",
+      "value": "图片读取失败"
+    },
+    {
+      "name": "ai_err_ocr_unavailable",
+      "value": "OCR 引擎不可用"
+    },
+    {
+      "name": "ai_err_empty_ocr",
+      "value": "未识别到文字，请换一张图片"
+    },
+    {
+      "name": "ai_save_calendar_partial",
+      "value": "任务已保存，但日历同步未完成"
+    },
+    {
+      "name": "task_status_pending_label",
+      "value": "待完成"
+    },
+    {
+      "name": "task_status_completed_label",
+      "value": "已完成"
+    },
+    {
+      "name": "task_status_expired_label",
+      "value": "已过期"
+    },
+    {
+      "name": "task_empty_today_hint",
+      "value": "今天可以喘口气啦"
+    },
+    {
+      "name": "task_empty_upcoming_hint",
+      "value": "识别新的通知后会出现在这里"
+    },
+    {
+      "name": "task_empty_activity_hint",
+      "value": "识别新的通知后会出现在这里"
+    },
+    {
+      "name": "task_empty_list_hint",
+      "value": "通过 AI 识别生成的任务会显示在这里"
+    },
+    {
+      "name": "task_edit_save_failed",
+      "value": "保存失败"
+    },
+    {
+      "name": "task_edit_title_empty",
+      "value": "标题不能为空"
+    },
+    {
+      "name": "profile_version",
+      "value": "v1.0 阶段7"
+    }
+  ]
+}

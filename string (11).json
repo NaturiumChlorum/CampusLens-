@@ -1,0 +1,656 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "CampusLens - AI campus info hub"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "CampusLens entry"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CampusLens"
+    },
+    {
+      "name": "reason_calendar",
+      "value": "Sync task deadlines and activity times to system calendar for reminders"
+    },
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_ai",
+      "value": "AI"
+    },
+    {
+      "name": "tab_task",
+      "value": "Tasks"
+    },
+    {
+      "name": "tab_profile",
+      "value": "Me"
+    },
+    {
+      "name": "home_title",
+      "value": "CampusLens"
+    },
+    {
+      "name": "home_subtitle",
+      "value": "Never miss a campus notice"
+    },
+    {
+      "name": "home_today_todo",
+      "value": "Today's activities"
+    },
+    {
+      "name": "home_upcoming_deadline",
+      "value": "Next 7 days"
+    },
+    {
+      "name": "home_recent_activity",
+      "value": "Later activities"
+    },
+    {
+      "name": "home_recognize_entry",
+      "value": "Recognize campus notice"
+    },
+    {
+      "name": "home_recognize_hint",
+      "value": "Paste / type / screenshot, AI structures it"
+    },
+    {
+      "name": "ai_title",
+      "value": "AI Recognize"
+    },
+    {
+      "name": "ai_input_placeholder",
+      "value": "Paste or type campus notice text…"
+    },
+    {
+      "name": "ai_pick_image",
+      "value": "Pick screenshot from album"
+    },
+    {
+      "name": "ai_start_ocr",
+      "value": "OCR extract text"
+    },
+    {
+      "name": "ai_analyze",
+      "value": "AI structured analysis"
+    },
+    {
+      "name": "ai_status_idle",
+      "value": "Waiting for input"
+    },
+    {
+      "name": "ai_status_analyzing",
+      "value": "Analyzing…"
+    },
+    {
+      "name": "task_title",
+      "value": "Tasks"
+    },
+    {
+      "name": "task_tab_all",
+      "value": "All"
+    },
+    {
+      "name": "task_tab_pending",
+      "value": "Pending"
+    },
+    {
+      "name": "task_tab_completed",
+      "value": "Done"
+    },
+    {
+      "name": "task_tab_expired",
+      "value": "Expired"
+    },
+    {
+      "name": "profile_title",
+      "value": "Me"
+    },
+    {
+      "name": "profile_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "common_empty",
+      "value": "Nothing here yet"
+    },
+    {
+      "name": "common_loading",
+      "value": "Loading…"
+    },
+    {
+      "name": "common_confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "common_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "task_empty_hint",
+      "value": "Tasks generated via AI will appear here"
+    },
+    {
+      "name": "task_detail_title",
+      "value": "Task details"
+    },
+    {
+      "name": "task_action_complete",
+      "value": "Mark done"
+    },
+    {
+      "name": "task_action_delete",
+      "value": "Delete"
+    },
+    {
+      "name": "task_action_close",
+      "value": "Close"
+    },
+    {
+      "name": "task_confirm_complete",
+      "value": "Mark this task as completed?"
+    },
+    {
+      "name": "task_confirm_delete",
+      "value": "Delete this task? This cannot be undone."
+    },
+    {
+      "name": "task_label_title",
+      "value": "Title"
+    },
+    {
+      "name": "task_label_category",
+      "value": "Category"
+    },
+    {
+      "name": "task_label_deadline",
+      "value": "Deadline"
+    },
+    {
+      "name": "task_label_event_time",
+      "value": "Event start"
+    },
+    {
+      "name": "task_label_event_end_time",
+      "value": "Event end"
+    },
+    {
+      "name": "task_label_location",
+      "value": "Location"
+    },
+    {
+      "name": "task_label_materials",
+      "value": "Materials"
+    },
+    {
+      "name": "task_label_contact",
+      "value": "Contact"
+    },
+    {
+      "name": "task_label_notes",
+      "value": "Notes"
+    },
+    {
+      "name": "task_label_description",
+      "value": "Description"
+    },
+    {
+      "name": "task_label_original",
+      "value": "Original text"
+    },
+    {
+      "name": "task_label_priority",
+      "value": "Priority"
+    },
+    {
+      "name": "task_no_deadline",
+      "value": "No deadline"
+    },
+    {
+      "name": "task_no_event_time",
+      "value": "No event time"
+    },
+    {
+      "name": "ai_clear_input",
+      "value": "Clear"
+    },
+    {
+      "name": "ai_error_empty",
+      "value": "Notice content cannot be empty"
+    },
+    {
+      "name": "ai_error_unknown",
+      "value": "AI failed. Please retry."
+    },
+    {
+      "name": "ai_result_title",
+      "value": "Analysis result"
+    },
+    {
+      "name": "ai_result_hint",
+      "value": "Please review and edit before saving"
+    },
+    {
+      "name": "ai_save_task",
+      "value": "Save task"
+    },
+    {
+      "name": "ai_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "ai_field_title",
+      "value": "Title"
+    },
+    {
+      "name": "ai_field_category",
+      "value": "Category"
+    },
+    {
+      "name": "ai_field_deadline",
+      "value": "Deadline"
+    },
+    {
+      "name": "ai_field_event_time",
+      "value": "Event start time"
+    },
+    {
+      "name": "ai_field_event_end_time",
+      "value": "Event end time"
+    },
+    {
+      "name": "ai_field_location",
+      "value": "Location"
+    },
+    {
+      "name": "ai_field_materials",
+      "value": "Materials (split by 、)"
+    },
+    {
+      "name": "ai_field_contact",
+      "value": "Contact"
+    },
+    {
+      "name": "ai_field_notes",
+      "value": "Notes"
+    },
+    {
+      "name": "ai_field_description",
+      "value": "Description"
+    },
+    {
+      "name": "ai_field_priority",
+      "value": "Priority"
+    },
+    {
+      "name": "ai_priority_high",
+      "value": "High"
+    },
+    {
+      "name": "ai_priority_medium",
+      "value": "Medium"
+    },
+    {
+      "name": "ai_priority_low",
+      "value": "Low"
+    },
+    {
+      "name": "ai_clear_input_confirm",
+      "value": "Clear input content?"
+    },
+    {
+      "name": "ai_save_success",
+      "value": "Task saved"
+    },
+    {
+      "name": "ai_ocr_status_picking",
+      "value": "Picking image…"
+    },
+    {
+      "name": "ai_ocr_status_recognizing",
+      "value": "Recognizing image text…"
+    },
+    {
+      "name": "ai_ocr_status_analyzing",
+      "value": "Analyzing notice…"
+    },
+    {
+      "name": "ai_ocr_status_done",
+      "value": "Done. Going to confirm"
+    },
+    {
+      "name": "ai_ocr_status_failed",
+      "value": "Recognition failed"
+    },
+    {
+      "name": "ai_ocr_status_cancelled",
+      "value": "Image picking cancelled"
+    },
+    {
+      "name": "ai_ocr_err_read",
+      "value": "Image read failed"
+    },
+    {
+      "name": "ai_ocr_err_empty",
+      "value": "No text recognized. Try another image"
+    },
+    {
+      "name": "ai_ocr_section_image",
+      "value": "From image"
+    },
+    {
+      "name": "save_and_calendar",
+      "value": "Save & add to calendar"
+    },
+    {
+      "name": "calendar_section",
+      "value": "Calendar sync"
+    },
+    {
+      "name": "calendar_add_deadline",
+      "value": "Add registration deadline"
+    },
+    {
+      "name": "calendar_add_activity",
+      "value": "Add activity time"
+    },
+    {
+      "name": "calendar_select_both",
+      "value": "You can select both"
+    },
+    {
+      "name": "calendar_reminder_title",
+      "value": "Reminder"
+    },
+    {
+      "name": "calendar_reminder_none",
+      "value": "No reminder"
+    },
+    {
+      "name": "calendar_reminder_10min",
+      "value": "10 minutes before"
+    },
+    {
+      "name": "calendar_reminder_30min",
+      "value": "30 minutes before"
+    },
+    {
+      "name": "calendar_reminder_1hour",
+      "value": "1 hour before"
+    },
+    {
+      "name": "calendar_reminder_1day",
+      "value": "1 day before"
+    },
+    {
+      "name": "calendar_adding",
+      "value": "Syncing to calendar…"
+    },
+    {
+      "name": "calendar_add_success",
+      "value": "Added to system calendar"
+    },
+    {
+      "name": "calendar_add_failed",
+      "value": "Calendar sync failed"
+    },
+    {
+      "name": "calendar_partial_failed",
+      "value": "Task saved, but calendar sync incomplete"
+    },
+    {
+      "name": "calendar_task_saved",
+      "value": "Task saved"
+    },
+    {
+      "name": "calendar_added",
+      "value": "Added to system calendar"
+    },
+    {
+      "name": "calendar_add_to_calendar",
+      "value": "Add to calendar"
+    },
+    {
+      "name": "calendar_update_event",
+      "value": "Update calendar"
+    },
+    {
+      "name": "calendar_delete_event",
+      "value": "Delete calendar event"
+    },
+    {
+      "name": "calendar_delete_confirm",
+      "value": "Also delete system calendar events?"
+    },
+    {
+      "name": "calendar_delete_confirm_yes",
+      "value": "Also delete calendar"
+    },
+    {
+      "name": "calendar_delete_confirm_no",
+      "value": "Delete task only"
+    },
+    {
+      "name": "calendar_no_time",
+      "value": "No time to sync to calendar"
+    },
+    {
+      "name": "calendar_permission_denied",
+      "value": "Calendar permission denied"
+    },
+    {
+      "name": "calendar_already_added",
+      "value": "Event already added"
+    },
+    {
+      "name": "home_stat_today",
+      "value": "Today"
+    },
+    {
+      "name": "home_stat_pending",
+      "value": "Pending"
+    },
+    {
+      "name": "home_stat_upcoming",
+      "value": "Next 7 days"
+    },
+    {
+      "name": "home_view_all",
+      "value": "View all ›"
+    },
+    {
+      "name": "home_empty_today",
+      "value": "No activities today"
+    },
+    {
+      "name": "home_empty_today_hint",
+      "value": "Take a breath"
+    },
+    {
+      "name": "home_empty_upcoming",
+      "value": "No activities in the next 7 days"
+    },
+    {
+      "name": "home_empty_upcoming_hint",
+      "value": "Recognized notices will appear here"
+    },
+    {
+      "name": "home_empty_activity",
+      "value": "No later activities"
+    },
+    {
+      "name": "home_empty_activity_hint",
+      "value": "Recognized notices will appear here"
+    },
+    {
+      "name": "home_deadline_in_days",
+      "value": "%s days left"
+    },
+    {
+      "name": "home_deadline_today",
+      "value": "Due today"
+    },
+    {
+      "name": "home_deadline_tomorrow",
+      "value": "Due tomorrow"
+    },
+    {
+      "name": "home_deadline_overdue",
+      "value": "Overdue"
+    },
+    {
+      "name": "task_action_edit",
+      "value": "Edit"
+    },
+    {
+      "name": "task_edit_title",
+      "value": "Edit task"
+    },
+    {
+      "name": "task_edit_save",
+      "value": "Save"
+    },
+    {
+      "name": "task_edit_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "task_label_created_at",
+      "value": "Created at"
+    },
+    {
+      "name": "task_label_calendar_status",
+      "value": "Calendar"
+    },
+    {
+      "name": "task_calendar_synced",
+      "value": "Synced to system calendar"
+    },
+    {
+      "name": "task_calendar_not_synced",
+      "value": "Not synced"
+    },
+    {
+      "name": "common_loading_default",
+      "value": "Loading…"
+    },
+    {
+      "name": "common_save_failed",
+      "value": "Save failed, please retry"
+    },
+    {
+      "name": "common_load_failed",
+      "value": "Data load failed"
+    },
+    {
+      "name": "common_op_failed",
+      "value": "Operation failed, please retry"
+    },
+    {
+      "name": "ai_empty_input_hint",
+      "value": "Please paste or input campus notice text first"
+    },
+    {
+      "name": "ai_status_ready",
+      "value": "Input ready, tap below to start"
+    },
+    {
+      "name": "ai_status_done",
+      "value": "Done, go to confirm"
+    },
+    {
+      "name": "ai_status_failed",
+      "value": "Failed"
+    },
+    {
+      "name": "ai_status_picking",
+      "value": "Picking image…"
+    },
+    {
+      "name": "ai_status_ocr",
+      "value": "Recognizing text…"
+    },
+    {
+      "name": "ai_status_analyzing_ocr",
+      "value": "Analyzing content…"
+    },
+    {
+      "name": "ai_status_cancelled",
+      "value": "Image pick cancelled"
+    },
+    {
+      "name": "ai_status_empty_text",
+      "value": "No text recognized"
+    },
+    {
+      "name": "ai_err_ai_failed",
+      "value": "AI recognition failed, please retry"
+    },
+    {
+      "name": "ai_err_ocr_failed",
+      "value": "OCR failed, please retry"
+    },
+    {
+      "name": "ai_err_ocr_read",
+      "value": "Image read failed"
+    },
+    {
+      "name": "ai_err_ocr_unavailable",
+      "value": "OCR engine unavailable"
+    },
+    {
+      "name": "ai_err_empty_ocr",
+      "value": "No text recognized, try another image"
+    },
+    {
+      "name": "ai_save_calendar_partial",
+      "value": "Task saved, but calendar sync incomplete"
+    },
+    {
+      "name": "task_status_pending_label",
+      "value": "Pending"
+    },
+    {
+      "name": "task_status_completed_label",
+      "value": "Completed"
+    },
+    {
+      "name": "task_status_expired_label",
+      "value": "Expired"
+    },
+    {
+      "name": "task_empty_today_hint",
+      "value": "Take a breath"
+    },
+    {
+      "name": "task_empty_upcoming_hint",
+      "value": "Recognized notices will appear here"
+    },
+    {
+      "name": "task_empty_activity_hint",
+      "value": "Recognized notices will appear here"
+    },
+    {
+      "name": "task_empty_list_hint",
+      "value": "Tasks generated by AI will appear here"
+    },
+    {
+      "name": "task_edit_save_failed",
+      "value": "Save failed"
+    },
+    {
+      "name": "task_edit_title_empty",
+      "value": "Title cannot be empty"
+    },
+    {
+      "name": "profile_version",
+      "value": "v1.0 Stage 7"
+    }
+  ]
+}
